@@ -302,14 +302,18 @@ Add recycler view scroll behavior
 [12]: https://github.com/armcha/Space-Navigation-View/issues/17
 [13]: https://github.com/armcha/Space-Navigation-View/issues/25
 [14]: https://github.com/armcha/Space-Navigation-View/issues/29
+[15]: https://github.com/ankitpopli1891
 [16]: https://github.com/armcha/Space-Navigation-View/issues/34
 [17]: https://github.com/armcha/Space-Navigation-View/issues/32
-[20]: https://github.com/armcha/Space-Navigation-View/issues/41
-[15]: https://github.com/ankitpopli1891
 [18]: https://github.com/akiraspeirs
 [19]: https://github.com/nextdimension
+[20]: https://github.com/armcha/Space-Navigation-View/issues/41
+[21]: https://github.com/mecoFarid
 
 ## Versions
+
+## 1.7.0
+* Added shadows. Thanks to [mecoFarid][21]
 
 ## 1.6.0
 * Added saving translation height on rotation. Thanks to [akiraspeirs][18]
